@@ -6,4 +6,8 @@ A collection of scripts that can be used as modules. Some useful, some completel
 ## Script List
 1. wes_colors.py   
  * Wes Anderson color palettes because I am sick of looking them up per project.  
+ * Usage:   
+ ```
+ import sys
+ 
 2.  
