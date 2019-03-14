@@ -6,6 +6,6 @@ wes_a = dict(
   Zissou = ['#79AAB5','#4A859E','#DFBF38','#CFA123','#D01C15']
 )
 contrasty = dict(
-  Bluesnreds = ['#A42820', '#5F5647', '#9B110E', '#3F5151', '#4E2A1E', '#550307', '#0C1707'],
-  Bluesnyellows = ['#FAD510', '#CB2314', '#273046', '#354823', '#1E1E1E']
+  Bluesnreds = ['#6FC9B6','#6FC9B6','#C52125','#FC4A41'],
+  Bluesnyellows = ['#6FC9B6','#6FC9B6','#FED430','#FDB467']
 )
