@@ -19,5 +19,8 @@ A collection of scripts that can be used as modules. Some useful, some completel
  wes_a['Rushmore'][0] # This will pull the first color in the rushmore palette
  wes_a['Rushmore'] # this will give you the list of colors in the rushmore palette
  ```
+Available Colors:
+![](https://github.com/iamdamion/my_modules/wes_color_palettes.png) 
+
 
 2.  
