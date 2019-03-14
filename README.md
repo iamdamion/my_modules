@@ -10,10 +10,14 @@ A collection of scripts that can be used as modules. Some useful, some completel
  * Usage:   
  ```
  import os,sys
- my_modules = os.path.expanduser('~/Dropbox/1_GITHUB_REPOS/my_modules')
+ my_modules = os.path.expanduser(<path to where you are storing the modules here>)
  sys.path.append(my_modules)
  from custom_colors import wes_a
 
- # colors can now be called from the movie, 
- 
+ # colors can now be called from the movie, or the set as a list, or individually
+ # examples:
+ wes_a['Rushmore'][0] # This will pull the first color in the rushmore palette
+ wes_a['Rushmore'] # this will give you the list of colors in the rushmore palette
+ ```
+
 2.  
