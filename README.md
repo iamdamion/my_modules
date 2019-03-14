@@ -4,6 +4,6 @@
 A collection of scripts that can be used as modules. Some useful, some completely aesthetic.
 
 ## Script List
-1. wes_colors.py
+1. wes_colors.py   
  * Wes Anderson color palettes because I am sick of looking them up per project.  
 2.  
