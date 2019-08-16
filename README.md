@@ -8,6 +8,7 @@ A collection of scripts that can be used as modules. Some useful, some completel
 I am going to change this into a folder with an __init__ file now that I understand that....
 
 ## Script List ##
+
 1. custom_colors.py
     * Color palettes because I am sick of looking them up per project. Ripped off the R idea of a dictionary, but corrected the colors.   
 	* Each is a dictionary. Currently available: 'wes_a' & 'contrasty' (contrasty unfinished).   
