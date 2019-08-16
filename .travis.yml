@@ -5,3 +5,4 @@ python:
 
 script:
   - python custom_colors.py
+  - python natural_sort.py
