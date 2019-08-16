@@ -1,6 +1,8 @@
 ## <p align="center">Custom Python Modules</p>    
 <p align="center"> Created by Damion V. Demeter</p>   
 
+[![Build Status](https://travis-ci.org/iamdamion/my_modules.svg?branch=master)](https://travis-ci.org/iamdamion/my_modules)    
+
 A collection of scripts that can be used as modules. Some useful, some completely aesthetic.
 
 ## Script List
