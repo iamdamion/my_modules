@@ -28,8 +28,8 @@ A collection of scripts that can be used as modules. Some useful, some completel
 Available Colors:     
 ![](https://github.com/iamdamion/my_modules/blob/master/wes_color_palettes.jpg) 
 
- 2. natural_sort.py   
- * Sorts strings to human readable. Example: 10 will go after 9, not after 1.
+2. natural_sort.py   
+ - Sorts strings to human readable. Example: 10 will go after 9, not after 1.
 
  * Usage:
  ```
