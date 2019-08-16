@@ -8,8 +8,11 @@ A collection of scripts that can be used as modules. Some useful, some completel
 
 ## Script List ##
 1. custom_colors.py   
+
 * Color palettes because I am sick of looking them up per project. Ripped off the R idea of a dictionary, but corrected the colors.
-* Each is a dictionary. Currently available: 'wes_a' & 'contrasty' (contrasty unfinished).  
+
+* Each is a dictionary. Currently available: 'wes_a' & 'contrasty' (contrasty unfinished).
+
 * Usage:   
  ```
  import os,sys
@@ -22,11 +25,13 @@ A collection of scripts that can be used as modules. Some useful, some completel
  wes_a['Rushmore'][0] # This will pull the first color in the rushmore palette
  wes_a['Rushmore'] # this will give you the list of colors in the rushmore palette
  ```
+
 Available Colors:     
 ![](https://github.com/iamdamion/my_modules/blob/master/wes_color_palettes.jpg) 
 
-2. natural_sort.py   
- * Sorts strings to human readable. Example: 10 will go after 9, not after 1.   
+ 2. natural_sort.py   
+ * Sorts strings to human readable. Example: 10 will go after 9, not after 1.
+
  * Usage:
  ```
  import os,sys
