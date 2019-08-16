@@ -1,6 +1,7 @@
 ## <p align="center">Custom Python Modules</p>   
 <p align="center"> Created by Damion V. Demeter</p>   
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b7521b9839c6464e9f70bb7c5b70d6e0)](https://app.codacy.com/app/iamdamion/my_modules?utm_source=github.com&utm_medium=referral&utm_content=iamdamion/my_modules&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/iamdamion/my_modules.svg?branch=master)](https://travis-ci.org/iamdamion/my_modules)    
 
 A collection of scripts that can be used as modules. Some useful, some completely aesthetic.
